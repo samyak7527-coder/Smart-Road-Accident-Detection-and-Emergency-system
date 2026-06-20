@@ -14,6 +14,7 @@ backend/dist/
 backend/.env
 frontend/.env
 backend/.env.example
+// Running the project is stored in the backend/.env file
 
 # Logs
 npm-debug.log*
@@ -24,3 +25,4 @@ pnpm-debug.log*
 # OS files
 .DS_Store
 Thumbs.db
+
