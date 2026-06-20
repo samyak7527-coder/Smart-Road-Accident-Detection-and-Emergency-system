@@ -1,11 +1,12 @@
 # Smart-Road-Accident-Detection-and-Emergency-system
 Smart Road Accident Detection and Emergency Alert System using Arduino Uno, SW420 Vibration Sensor, HC-05 Bluetooth, React.js, Node.js, and MongoDB. Detects accidents, captures GPS location through mobile devices, stores accident data, and enables emergency contact notification and suggestion of nearby hospitals workflows.
 
-mart Road Accident Detection and Emergency Alert System
+Smart Road Accident Detection and Emergency Alert System
 
 A full-stack IoT-based accident detection system designed to reduce emergency response time by automatically detecting accidents and sharing location information with emergency contacts and nearby hospitals.
 
 **Features**
+
 1.Automatic accident detection using SW420 vibration sensor
 2.Arduino Uno based impact sensing
 3.HC-05 Bluetooth communication
@@ -19,10 +20,12 @@ A full-stack IoT-based accident detection system designed to reduce emergency re
 11. Real-time accident monitoring
 
 **Technology Stack**
+
   1. Hardware
     Arduino Uno
     SW420 Vibration Sensor
     HC-05 Bluetooth Module
+
   2. Software
     React.js
     Vite
@@ -31,6 +34,7 @@ A full-stack IoT-based accident detection system designed to reduce emergency re
     MongoDB
     JavaScript
     HTML/CSS
+
   3. System Workflow
     Accident Detection
            ↓
